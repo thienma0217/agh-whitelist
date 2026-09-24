@@ -1,3 +1,8 @@
 ! Title: AGH Whitelist
 ! Cú pháp: @@||domain.com^  (cho phép domain và mọi subdomain)
-@@||example.com^
+@@||onedrive.com^
+@@||sharepoint.com^
+@@||sharepoint-df.com^
+@@||onedrive.live.com^
+@@||office.com^
+@@||login.microsoftonline.com^
