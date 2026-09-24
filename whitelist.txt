@@ -1,0 +1,3 @@
+! Title: AGH Whitelist
+! Cú pháp: @@||domain.com^  (cho phép domain và mọi subdomain)
+@@||example.com^
