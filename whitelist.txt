@@ -6,3 +6,4 @@
 @@||onedrive.live.com^
 @@||office.com^
 @@||login.microsoftonline.com^
+@@||scflogistics.io.vn^
